@@ -21,6 +21,7 @@
 ;;; Commentary:
 ;;; Code:
 
+(require 'dash)
 (require 'org-trello-log)
 (require 'ido)
 (require 's)
